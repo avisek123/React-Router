@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+ align-items: center;
+  flex-direction: column;
+}
+.nav{
+  list-style-type: none;
+ display: flex;
+  width: 500px;
+  justify-content: space-around;
+}
+.link{
+  text-decoration: none;
+}
